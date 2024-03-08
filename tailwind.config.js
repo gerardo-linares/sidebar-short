@@ -23,7 +23,7 @@ module.exports = {
       colors: {
         primary: "#131424",
         secondary: "#393A47",
-        accent: "#F13024",
+        accent: "#e8c39e",
       },
       backgroundImage: {
         site: 'url("/site-bg.svg")',
@@ -39,3 +39,5 @@ module.exports = {
   },
   plugins: [],
 };
+
+// paleta de colores #3c3c3c , #515151 #666666 ,#8c8c8c ,#b5b5b5 , "#e8c39e"
